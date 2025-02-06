@@ -6,7 +6,8 @@ Modeled after the Simon memory game.
 (1) Seeed RP2040 microcontroller<br>
 (5) switches - start + 4 colors<br>
 (4) color LEDs - red, green, blue, yellow<br>
-(4) 100 ohm resistors for LED current limiting<br>
+(1) speaker
+(5) 100 ohm resistors for LED current limiting and speaker volume limiting<br>
 
 ## Optional Power Supply Parts (for stand alone operation)
 (1) 1000 mah 3.7 volt Lithium Ion battery<br>
