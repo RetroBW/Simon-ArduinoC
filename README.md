@@ -6,7 +6,7 @@ Modeled after the Simon memory game.
 (1) Seeed RP2040 microcontroller<br>
 (5) switches - start + 4 colors<br>
 (4) color LEDs - red, green, blue, yellow<br>
-(1) speaker
+(1) passive buzzer
 (5) 100 ohm resistors for LED current limiting and speaker volume limiting<br>
 
 ## Optional Power Supply Parts (for stand alone operation)
